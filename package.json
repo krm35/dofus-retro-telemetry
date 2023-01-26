@@ -1,0 +1,17 @@
+{
+  "name": "dofus-retro-telemetry",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "crypto-js": "^4.1.1",
+    "node-rsa": "^1.1.1",
+    "systeminformation": "^5.17.4"
+  }
+}
